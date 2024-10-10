@@ -15,27 +15,16 @@ keywords:
         protostellar discs: 3
         protostellar envelopes: 3
         protostellar: 2
-        IMF: 2
-        CMF: 2
-        CMFs: 2
-        core mass function: 2
-        core mass functions: 2
-        initial mass function: 2
-        initial mass functions: 2
         VeLLOs: 2
-        debris disk: 1
-        debris disks: 1
-        debris disc: 1
-        debris discs: 1
         star formation: 1
         planet formation: 1
         disk formation: 1
         circumstellar disk: 1
         circumstellar disks: 1
-        circumbinary disk: 1
-        circumbinary disks: 1
         protoplanet: 1
-        exoplanet: 1
+        planet: 1
+        outflow: 1
+        envelope: 1
 
 # 通知の閾値
 score_threshold: 0
