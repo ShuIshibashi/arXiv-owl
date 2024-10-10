@@ -25,6 +25,8 @@ keywords:
         planet: 1
         outflow: 1
         envelope: 1
+        PCA: 1
+        principal component analysis: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
