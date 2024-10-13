@@ -21,9 +21,17 @@ keywords:
         disk formation: 1
         circumstellar disk: 1
         circumstellar disks: 1
-        envelope: 1
-        PCA: 1
+        spiral arm: 1
+        spiral arms: 1
+        streamer: 1
+        streamers: 1
+        cavity: 1
+        cavities: 1
+        outflow: 1
+        machine learning: 1
+        CNN: 1
         principal component analysis: 1
+        PCA: 1
 
 # 通知の閾値
 score_threshold: 1
